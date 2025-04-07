@@ -1,2 +1,2 @@
 # CalculatorX
-Calculadora Basica
+Calculadora Basica y Avanzada
